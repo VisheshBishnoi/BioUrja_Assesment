@@ -19,10 +19,10 @@ zone_mapping = {
 
 # Create a dictionary to store zonal capacities
 zonal_capacities = {
-    "East": 2000,
-    "North": 2500,
-    "West": 1500,
-    "South": 4000
+    "East": 2800,
+    "North": 1500,
+    "West": 2000,
+    "South": 6500
 }
 
 # State capacity
